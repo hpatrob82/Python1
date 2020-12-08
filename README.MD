@@ -1,3 +1,3 @@
 # Python Assignment #1
 
-This repository will containg my first Python projects
+This repository will containing my first Python projects on Digital Crafts
